@@ -1,6 +1,6 @@
 # Hi, I'm Eesha Ranka👋
 
-### B.Tech Artificial Intelligence & Machine Learning Student | AI & Robotics Enthusiast
+### B.Tech Artificial Intelligence & Machine Learning Student | AI & Robotics Enthusiast 
 
 I'm a 3rd-year B.Tech AIML student interested in building intelligent systems that connect **Artificial Intelligence, Machine Learning, Computer Vision, and Robotics**.
 
