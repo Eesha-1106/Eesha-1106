@@ -6,7 +6,7 @@ I'm a 3rd-year B.Tech AIML student interested in building intelligent systems th
 
 I'm currently learning and building projects to strengthen my understanding of AI while exploring how AI can be applied to real-world robotic and autonomous systems.
 
-### 🔭 Currently Learning
+###  Currently Learning
 
 - Machine Learning & Deep Learning
 - Computer Vision
@@ -14,7 +14,7 @@ I'm currently learning and building projects to strengthen my understanding of A
 - CAD & 3D Design
 - Data Structures & Algorithms
 
-### 🛠️ Technologies & Tools
+###  Technologies & Tools
 
 **Languages**
 - Python
@@ -44,21 +44,13 @@ I'm currently learning and building projects to strengthen my understanding of A
 - Fusion 360
 
 
-### 🚀 Projects
+### Projects
+- ElvionX – Learning platform with structured learning paths and assessments
+- EGO-Guard – AI-based highway overtaking safety concept using computer vision
+- AI & Computer Vision Projects – Exploring real-world applications with Python and OpenCV
+- AI/ML Projects – Building projects to strengthen ML and data-processing skills
 
-#### 🤖 AI & Robotics
-Exploring projects that combine AI/ML with robotics, computer vision and autonomous systems.
-
-#### 👁️ Computer Vision
-Building and experimenting with computer vision applications using Python and OpenCV.
-
-#### 🧠 AI & Machine Learning
-Developing ML-based projects to understand data processing, model development, evaluation and deployment.
-
-#### 💻 ElvionX
-A learning platform focused on structured learning paths, assessments and skill development.
-
-### 📚 Currently Working On
+###  Currently Working On
 
 - Strengthening my Machine Learning fundamentals
 - Building practical AI projects
@@ -66,11 +58,11 @@ A learning platform focused on structured learning paths, assessments and skill 
 - Learning CAD 
 - Improving DSA and problem-solving skills
 
-### 🎯 Goal
+###  Goal
 
 To become an **AI & Robotics Engineer** and build intelligent systems that can understand, learn and interact with the real world.
 
-### 📫 Connect With Me
+###  Connect With Me
 
 - LinkedIn: [https://www.linkedin.com/in/eesha-ranka-b707b732a/]
 - GitHub: [https://github.com/Eesha-1106]
